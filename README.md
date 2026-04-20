@@ -14,7 +14,7 @@
 - InkSight 扩展调用
 
 ## 运行环境
-- Python 3.x
+- Python 3.11
 - OpenCV
 - NumPy
 - Pillow
